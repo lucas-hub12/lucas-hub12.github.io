@@ -1,27 +1,33 @@
-# tech blog@cashmallow
-- Cashmallow development team's technology blog about wanting to contribute to the open source ecosystem
-  
-<img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
+# team blog@lucas12.store
+- team-sunsin development team's technology blog about wanting to contribute to the open source ecosystem
+  <img src="https://i.namu.wiki/i/TNsR9Ds4OAhWOs6QIc9QopgXwcTPwlKiuehfZRXPAiv8Ea6BMsLJmVzcIGFG4HZoTSg7wvDStHH6ZMAxxbjFSd5rtvtA37UXHN2N0ENANiXxROfCOEMokkht_0WSlOhlVIMpQnLQlQu5BpxO3_-vKA.webp "  alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- PRD - https://oss.cashmallow.com / oss-cashmallow.github.io
-- STG - https://oss-cashmallow.web.app
+- PRD - https://blog.lucas12.store, https://lucas-hub12.github.io
+- STG - https://team-lucas.web.app
+- dev - 
+- local - https://localhost:8080
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
 
 0. created based on [vuepress](https://v2.vuepress.vuejs.org/)
-1. git clone https://github.com/oss-cashmallow/oss-cashmallow.github.io.git
+1. git clone git@github.com:lucas-hub12/lucas-hub12.github.io.git
 2. edit with [vscode](https://code.visualstudio.com/)
 3. install
 ``` bash
-brew install node
-brew install pnpm
+https://github.com/nvm-sh/nvm
+https://pnpm.io/ko/
 ```
 4. run - development environment [install pnpm](https://pnpm.io/installation)
 - connecting to localhost 8080
 - node.js install if you have get error 'ELIFECYCLE Command failed'
 ```
+$ nvm install --lts
+$ nvm ls
+$ nvm use v22.13.0
+$ node -v
+v22.13.0 
 pnpm install
 pnpm docs:dev
 ```
@@ -32,45 +38,18 @@ pnpm docs:dev
 - [install firebase](https://v2.vuepress.vuejs.org/guide/deployment.html#google-firebase)
 
 ``` bash
-$ sh deploy-stg.sh
-
-=== Deploying to 'oss-cashmallow'...
-
-i  deploying hosting
-i  hosting[oss-cashmallow]: beginning deploy...
-i  hosting[oss-cashmallow]: found 43 files in ./docs
-✔  hosting[oss-cashmallow]: file upload complete
-i  hosting[oss-cashmallow]: finalizing version...
-✔  hosting[oss-cashmallow]: version finalized
-i  hosting[oss-cashmallow]: releasing new version...
-✔  hosting[oss-cashmallow]: release complete
-
-✔  Deploy complete!
-
-Project Console: https://console.firebase.google.com/project/oss-cashmallow/overview
-Hosting URL: https://oss-cashmallow.web.app
-╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡
-다음 항목을 제거할 예정입니다:
-  docs/assets/app-a5e3f83c.js         docs/assets/index.html-77e713f0.js  docs/team/how2pr/
-  docs/assets/index.html-6e725bfb.js  docs/assets/index.html-a3f200a8.js
-*** 명령 ***
-    1: clean                2: filter by pattern    3: select by numbers    4: ask each             5: quit
-    6: help
-무엇을 할까요> 1
-docs/assets/app-a5e3f83c.js 제거
-docs/assets/index.html-6e725bfb.js 제거
-docs/assets/index.html-77e713f0.js 제거
-docs/assets/index.html-a3f200a8.js 제거
-docs/team/how2pr/ 제거
-╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡
-STG DEPLOY OK!
-https://oss-cashmallow.web.app
+$ git add .
+$ pnpm docs:build
+$ firebase login
+$ firebase deploy
 ```
 
 2. PRD
-- github pages -> docs
-- sh prd-build.sh -> push -> pr merge -> deploy - end
-- https://oss.cashmallow.com
+``` bash
+$ github pages -> docs
+$ pnpm docs:build
+$ git add .;git commit -a;git push
+$  https://oss.cashmallow.com
+https://blog.lucas12.store
 
-<img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
-<img src="https://oss-cashmallow.github.io/images/hero.png" alt="cashmallow" style="width:200px;"/>
+
