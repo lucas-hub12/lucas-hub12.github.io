@@ -2,12 +2,12 @@
 home: true
 
 heroImage: /images/hero.png
-heroImageDark: /images/hero.png
+heroImageDark: /images/onepiece.webp
 
-heroText: 'tech blog@cashmallow'
-title: tech blog
+heroText: 'team blog@lucas12.store'
+title: team sunsin
 
-tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
+tagline: Our team is a development team, and just like Luffy aims to become the Pirate King, we aspire to become the Kings of Development.
 
 actions:
   - text: tech SHARE
