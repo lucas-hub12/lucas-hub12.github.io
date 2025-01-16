@@ -1,5 +1,5 @@
 # team blog@lucas12.store
-- team-sunsin development team's technology blog about wanting to contribute to the open source ecosystem
+- We are a data analysis team, and just as Rupee aims to be the pirate king, we aspire to be the king of logistics data.
   <img src="https://i.namu.wiki/i/TNsR9Ds4OAhWOs6QIc9QopgXwcTPwlKiuehfZRXPAiv8Ea6BMsLJmVzcIGFG4HZoTSg7wvDStHH6ZMAxxbjFSd5rtvtA37UXHN2N0ENANiXxROfCOEMokkht_0WSlOhlVIMpQnLQlQu5BpxO3_-vKA.webp "  alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
