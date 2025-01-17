@@ -81,8 +81,8 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "GITHUB", link: "https://github.com/lucas-hub12" },
+      { text: "RESUME", link: "/resume/" },
     ],
 
     sidebar: {
