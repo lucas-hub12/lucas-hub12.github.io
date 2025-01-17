@@ -34,7 +34,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Build Docs
-        run: pnpm run docs:build
+        run: npm run docs:build
       - name: COPY files
         run: sh cpfiles.sh
       - name: Upload artifact
