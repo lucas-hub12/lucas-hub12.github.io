@@ -1,6 +1,6 @@
 # lucas
 
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="images/gromit.png" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/gromit.png" />
 
 <span style="float:right;padding:6px"> 
   hyeonggyunbae@email.com <br> mobile: +82-10-1234-5678  <br> Nationality: Korean
