@@ -10,12 +10,12 @@ export default defineUserConfig({
   lang: 'en-US',
 
   title: 'team lucas12',
-  description: "We are a data analysis team, and just as Rupee aims to be the pirate king, we aspire to be the king of logistics data.",
+  description: "We want to be the king of logistics data just as Rupee aims to be the pirate king.",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'data-blog:lucas' }],
-    ['meta', { property: 'og:description', content: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem" }],
+    ['meta', { property: 'og:description', content: "We are a data analysis team" }],
     ['meta', { property: 'og:image', content: 'https://lucas-hub12.github.io/images/Social preview.png' }],
     ['meta', { property: 'og:url', content: 'https://lucas-hub12.github.io/' }],
   ],
