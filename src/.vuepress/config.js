@@ -10,14 +10,14 @@ export default defineUserConfig({
   lang: 'en-US',
 
   title: 'team lucas12',
-  description: "Our team is a development team, and just like Luffy aims to become the Pirate King, we aspire to become the Kings of Development.",
+  description: "We are a data analysis team, and just as Rupee aims to be the pirate king, we aspire to be the king of logistics data.",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'tech-blog:cashmallow' }],
+    ['meta', { property: 'og:title', content: 'data-blog:lucas' }],
     ['meta', { property: 'og:description', content: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem" }],
-    ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/120996497/209457891-2c91f7fe-514d-4431-bfcb-7f6ee72ed8ee.png' }],
-    ['meta', { property: 'og:url', content: 'https://oss.cashmallow.com' }],
+    ['meta', { property: 'og:image', content: 'https://lucas-hub12.github.io/images/Social preview.png' }],
+    ['meta', { property: 'og:url', content: 'https://lucas-hub12.github.io/' }],
   ],
   
   locales: {
@@ -25,13 +25,13 @@ export default defineUserConfig({
     // As a special case, the default locale can use '/' as its path.
     '/en/': {
       lang: 'en-US',
-    //   title: 'tech-blog:cashmallow',
-    //   description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+    //   title: 'data-blog:lucas',
+    //   description: "We are a data analysis team, and just as Rupee aims to be the pirate king, we aspire to be the king of logistics data.",
     },
     '/': {
       lang: 'ko-KR',
-    //   title: 'tech-blog:cashmallow',
-    //   description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+    //   title: 'data-blog:lucas',
+    //   description: "We are a data analysis team, and just as Rupee aims to be the pirate king, we aspire to be the king of logistics data.",
     },
   },
 
@@ -88,10 +88,10 @@ export default defineUserConfig({
     sidebar: {
       "/": [
         {
-          text: "share",
+          text: "resume",
           collapsible: true,
           children: [
-            "/tech/share/",
+            "/resume/",
           ],
         },
         {

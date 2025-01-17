@@ -10,16 +10,12 @@ title: Logistics Data Team lucas
 tagline: We are a data analysis team, and just as Rupee aims to be the pirate king, we aspire to be the king of logistics data.
 
 actions:
-  - text: data SHARE
-    link: /tech/share
+  - text: GIHUB 
+    link: https://github.com/lucas-hub12
     type: primary
   
-  - text: team lucas
-    link: /team/tiger
-    type: secondary
-
-  - text: logistic insight
-    link: /tech/share/opensource
+  - text: RESUME
+    link: /RESUME
     type: secondary
 
 features:
@@ -30,5 +26,5 @@ features:
 - title: IT technology
   details: IoT-based transportation cargo monitoring service / Loading Optimizer
 
-footer: THE lucas@sunsin.shop  who has returned the favor. 2025.
+footer: THE lucassunsin.shop  who has returned the favor. 2025.
 ---
