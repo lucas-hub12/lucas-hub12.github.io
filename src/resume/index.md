@@ -1,51 +1,114 @@
-# lucas
-
+# Lucas
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/gromit.png" />
 
 <span style="float:right;padding:6px"> 
-  hyeonggyunbae@email.com <br> mobile: +82-10-1234-5678  <br> Nationality: Korean
+ hyeonggyunbae@gmail.com  <br> Nationality: Korean
 </span>
 
-# Casualwriter  
+ 
 
-## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+## 🗣 간단 소개글
 
-## Working Experience
+* <b> 직무, 경력:</b> <br> 
+      물류운영 및 센터 관리, 경력 2년
 
-#### Current Company (Project Manager, 2015/08 - present) 
+* <b> 어느 업종, 산업에서 어떤 일을 해왔는지</b> <br>
+       식품회사의 물류 운영을 담당하며, 본사와 물류센터에서 관계사 및 3PL과 협력하여 물류 전반의 프로세스를 관리했습니다.<br>
+       주요 업무로는 물류비 정산, 배차 계획 수립, 재고 관리, 클레임 처리
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* <b> 강점</b> <br>
+      본사와 현장을 모두 경험하며 구축한 폭넓은 커뮤니케이션 능력과 문제 해결 능력은 어떤 환경에서도 빠르게 적응할 수 있는 강점이 있습니다 
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+* <b> 성과 및 전문적 경험, 기술</b> <br>
+      - 신규 3PL 운영 안정화를 통해 신 사업 초기 물류 프로세스를 성공적으로 구축<br>
+      - 월 물류비 정산 체계 확립 및 비용 최적화 관리 <br>
+      - 물류 센터 차량 증차 및 콜배차 관리로 물류 효율성 증대 <br>
+      - 영업 사원과 원활한 의사소통 및 협업으로 고객의 클레임 문제 해결 및 고객 만족도 향상 <br>
+      - 물류 시스템 분석 및 개선으로 센터 운영 안정화와 성과 향상 <br>  
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+## 🎓 학력
+<style>
+    table {
+        border-collapse: collapse; /* 테이블 경계를 합쳐서 공백 제거 */
+        width: 100%; /* 원하는 너비 설정 */
+    }
+    th, td {
+        border: 1px solid #000; /* 테두리 설정 */
+        padding: 8px; /* 셀 내부 여백 설정 */
+        text-align: center; /* 텍스트 가운데 정렬 */
+    }
+</style>
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+<table> 
+    <thead>
+        <tr>
+            <th>학교</th>
+            <th>전공</th>
+            <th>학점</th>
+            <th>졸업 여부</th> 
+            <th>지역</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>배재고등학교</td>
+            <td>문과</td>
+            <td></td>
+            <td>졸업</td>
+            <td>서울</td>
+        </tr>
+        <tr>
+            <td>백석대학교</td>
+            <td>국제통상학과</td>
+            <td>3.64/4.5</td>
+            <td>중퇴</td>
+            <td>천안</td>
+        </tr>        
+        <tr>
+            <td>상명대학교</td>
+            <td>글로벌경영학과</td>
+            <td>4.04/4.5</td>
+            <td>졸업</td>
+            <td>서울</td>
+        </tr>
+    </tbody>
+</table>
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
 
-## Projects: 
+## 💼 커리어
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+#### 🗒 이직 준비중 ~  (2024/11 - Present ) 
 
-## Education & Qualifications
+* 파이썬과 SQL을 통한 물류데이터 수집, 처리, 분석을 배워 데이터 분석가가 되고자 합니다.
+* 물류 대학원을 진학해서 물류 데이터 분석과 인사이트 도출 역량을 키우고자 합니다. 
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+#### 📦 오뚜기물류서비스  (신규센터TF팀, 2023/10 - 2024/10) 
 
-## Misc. Information
+* 주요 활동: 신규 센터 자료 분석 및 물류 프로세스 구축, 오픈 후 물류 프로세스 문제 발생 시 개선, 재고관리, 차량 관리 및 배차
+* 성과 및 평가: 자료 분석를 통해 신규센터 오픈 후 빠른 시일 안정화, 차량 증차 및 콜배차 관리를 통해 물류 비용 감소    
+* 역량: 자료 취합과 분석 역량, 유관 부서와의 의사소통 능력, 팀원들과의 협업
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+#### 🏢 오뚜기물류서비스 (물류운영팀, 2022/10 - 2023/10)
+
+* 주요 활동: 관계사 및 3PL 운영 및 관리, 월 마감, 배차 
+* 성과 및 평가: 관계사 신사업 유치 및 안정화에 기여, 담당 3PL 업체 물류 프로세스를 변경을 통해 물류 클레임 감소
+* 역량: 관계사와 및 3PL 업체와 정기적인 소통을 통해 클레임 발생시 빠른 대처 역량 강화
+
+## 📊 Projects 
+* 🔜  프로젝트 완성 후 올리겠습니다.
+  
+
+## 📋교육활동 & 자격증
+
+* LG U⁺ Why Not SW Camp(2024.12 ~ 2025.06)
+* 물류관리사(2022.09)
+* 스마트물류 실무자 양성교육(2022.06)
+* 유통관리사 2급(2021.12)
+* 캡스톤디자인 경진대회 장려상(2020.07)
+
+## 👉 Misc. Information
+
+* 관심사: 🤑 미국 주식(천연가스, 양자컴퓨팅, 배당주, 코인)🤑
+* 취미: 풋살⚽️🥅, 볼링🎳, 크로스핏🏋`
 
