@@ -9,14 +9,14 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team lucas12',
-  description: "We want to be the king of logistics data just as Rupee aims to be the pirate king.",
+  title: "Lucas's voyage",
+  description: "Lucas's blog.",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'data-blog:lucas' }],
+    ['meta', { property: 'og:title', content: "Lucas's blog"}],
     ['meta', { property: 'og:description', content: "We are a data analysis team" }],
-    ['meta', { property: 'og:image', content: 'https://lucas-hub12.github.io/images/Social preview.png' }],
+    ['meta', { property: 'og:image', content: 'https://lucas-hub12.github.io/images/lucas.jpg' }],
     ['meta', { property: 'og:url', content: 'https://lucas-hub12.github.io/' }],
   ],
   
@@ -64,9 +64,9 @@ export default defineUserConfig({
     },
 
     logo: "/images/hero.png",
-    logoDark: "/images/onepiece.webp",
+    logoDark: "/images/hero.png",
 
-    repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
+    repo: "https://github.com/lucas-hub12/lucas-hub12.github.io",
     repoLabel: "discussions",
 
     contributors: false,
@@ -116,8 +116,8 @@ export default defineUserConfig({
   }),
 
   plugins: [
-    searchPlugin({
-
+  searchPlugin({
+  
     }),
     backToTopPlugin(),
     googleAnalyticsPlugin({

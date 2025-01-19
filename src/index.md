@@ -1,30 +1,34 @@
 ---
 home: true
 
-heroImage: /images/hero.png
-heroImageDark: /images/onepiece.webp
+heroImage: /images/ship.png
+heroImageDark: /images/ship.png
 
-heroText: 'team blog@lucas12.store'
-title: Logistics Data Team lucas
+heroText: ''
+title: Lucas 
 
-tagline: We are a data analysis team, and just as Rupee aims to be the pirate king, we aspire to be the king of logistics data.
+tagline: Lucas's Blog 
 
 actions:
   - text: GIHUB 
     link: https://github.com/lucas-hub12
     type: primary
-  
+ 
+  - text: NOTION
+    link: https://www.notion.so/57dcb1c611a541e9992919cb96316218?pvs=16
+    type: primary  
+
   - text: RESUME
     link: /RESUME
     type: secondary
 
 features:
-- title: team lucas
-  details: Logistics Bridge Data Team. A data analytics organization that brings out more than what customers want one step faster than the logistics market.
-- title: our service
-  details: Warehouse Automation / Warehousing & Distribution / Dedicated Fufillment  
-- title: IT technology
-  details: IoT-based transportation cargo monitoring service / Loading Optimizer
+- title: GITHUB
+  details: 📊  제가 진행한 프로젝트가 궁금하시면 깃허브를 방문해주세요 !
+- title: NOTION
+  details: 📝 저의 취미와 관심사가 궁금하시면 노션을 방문해주세요 !  
+- title: RESUME
+  details: 깃허브와 노션을 재밌게 보셨다면 저의 이력서를 봐주세요 ! ᨐฅ  
 
-footer: THE lucassunsin.shop  who has returned the favor. 2025.
+footer: 2025 My Website. All rights reserved.
 ---
