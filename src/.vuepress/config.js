@@ -9,13 +9,13 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: "Lucas's voyage",
-  description: "Lucas's blog.",
+  title: "Lucas's 항해",
+  description: "데이터 분석가라는 목표로 항해하는 Lucas의 여정을 그의 블로그에서 만나보세요.", 
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: "Lucas's blog"}],
-    ['meta', { property: 'og:description', content: "We are a data analysis team" }],
+    ['meta', { property: 'og:title', content: "Lucas's blog" }],
+    ['meta', { property: 'og:description', content: "데이터 분석가라는 목표로 항해하는 Lucas의 여정을 그의 블로그에서 만나보세요" }],
     ['meta', { property: 'og:image', content: 'https://lucas-hub12.github.io/images/lucas.jpg' }],
     ['meta', { property: 'og:url', content: 'https://lucas-hub12.github.io/' }],
   ],
@@ -25,13 +25,13 @@ export default defineUserConfig({
     // As a special case, the default locale can use '/' as its path.
     '/en/': {
       lang: 'en-US',
-    //   title: 'data-blog:lucas',
-    //   description: "We are a data analysis team, and just as Rupee aims to be the pirate king, we aspire to be the king of logistics data.",
+    //   title: "lucas's voyage",
+    //   description: "Embark on Lucas's journey as he sails toward his goal of becoming a data analyst on his blog.",
     },
     '/': {
       lang: 'ko-KR',
-    //   title: 'data-blog:lucas',
-    //   description: "We are a data analysis team, and just as Rupee aims to be the pirate king, we aspire to be the king of logistics data.",
+    //   title: "lucas's 항해,
+    //   description: "데이터 분석가라는 목표로 항해하는 Lucas의 여정을 그의 블로그에서 만나보세요.",
     },
   },
 
@@ -83,6 +83,7 @@ export default defineUserConfig({
     navbar: [
       { text: "GITHUB", link: "https://github.com/lucas-hub12" },
       { text: "RESUME", link: "/resume/" },
+      { text: "⋆.˚✮🎧✮˚.⋆", link: "https://vim.sunsin.shop/?sort=shuffle&query=%ED%94%8C" },         
     ],
 
     sidebar: {
